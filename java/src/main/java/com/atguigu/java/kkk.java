@@ -4,5 +4,10 @@ public class kkk {
         int a = 1;
         int b = 1 + a ;
         System.out.println(b);
+
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
